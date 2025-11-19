@@ -1,0 +1,8 @@
+name: neural networks v1
+description: nn basics
+version: 1
+variables: {}
+template: what is a neural network
+meta:
+  created_at: '2025-11-19 13:17:25.238699+00:00'
+  author: narayanjoshinj29@gmail.com
