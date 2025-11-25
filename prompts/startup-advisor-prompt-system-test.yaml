@@ -1,0 +1,39 @@
+name: Startup Advisor Prompt (System Test)
+description: A test prompt to check whether prompt handling, versioning, semantic
+  search, benchmarking, batch testing, and cost/latency analytics are working correctly
+  in the PromptOps platform.
+version: 2
+variables: {}
+template: 'My project idea is called **PromptOps**.
+
+
+  Here is a short description of the idea:
+
+  "PromptOps is a platform for creating, versioning, testing, and analyzing prompts
+  for large language models. It includes features like prompt version control, test
+  sandboxing, semantic search using embeddings, model benchmarking, batch testing,
+  and GitHub sync."
+
+
+  Act as a startup advisor and technical architect. Analyze PromptOps and provide:
+
+
+  1. What problem this idea solves
+
+  2. Existing tools or research similar to this idea
+
+  3. Technical feasibility with today''s tools
+
+  4. Required data and inputs
+
+  5. Challenges and risks
+
+  6. Opportunities for improvement
+
+  7. A clear, step-by-step MVP roadmap
+
+
+  Keep the explanation structured and concise.'
+meta:
+  created_at: '2025-11-25 14:16:02.349463+00:00'
+  author: narayanjoshinj29@gmail.com
